@@ -13,7 +13,10 @@ votes = votes[votes["round"] == "final"]
 # votes = votes[votes["year"] == 2023]
 # votes = votes[votes["from_country"] == "de"]
 # votes["year"] = votes["year"].astype("category")
-votes["distance"] = votes["distance"].astype("float")
+votes["distance"] = votes["distance"].astype("int")
+votes["distance"] = (votes["distance"] - votes["distance"].mean()) / votes[
+    "distance"
+].std()
 
 ## Linear Effects Model
 print(votes.head())
