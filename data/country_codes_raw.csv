@@ -1,0 +1,497 @@
+Afghanistan (l'),AF,AFG,4
+,,,
+Albanie (l'),AL,ALB,8
+,,,
+Algérie (l'),DZ,DZA,12
+,,,
+Samoa américaines (les),AS,ASM,16
+,,,
+Andorre (l'),AD,AND,20
+,,,
+Angola (l'),AO,AGO,24
+,,,
+Anguilla,AI,AIA,660
+,,,
+Antarctique (l'),AQ,ATA,10
+,,,
+Antigua-et-Barbuda,AG,ATG,28
+,,,
+Argentine (l'),AR,ARG,32
+,,,
+Arménie (l'),AM,ARM,51
+,,,
+Aruba,AW,ABW,533
+,,,
+Australie (l'),AU,AUS,36
+,,,
+Autriche (l'),AT,AUT,40
+,,,
+Azerbaïdjan (l'),AZ,AZE,31
+,,,
+Bahamas (les),BS,BHS,44
+,,,
+Bahreïn,BH,BHR,48
+,,,
+Bangladesh (le),BD,BGD,50
+,,,
+Barbade (la),BB,BRB,52
+,,,
+Bélarus (le),BY,BLR,112
+,,,
+Belgique (la),BE,BEL,56
+,,,
+Belize (le),BZ,BLZ,84
+,,,
+Bénin (le),BJ,BEN,204
+,,,
+Bermudes (les),BM,BMU,60
+,,,
+Bhoutan (le),BT,BTN,64
+,,,
+Bolivie (État plurinational de),BO,BOL,68
+,,,
+"Bonaire, Saint-Eustache et Saba",BQ,BES,535
+,,,
+Bosnie-Herzégovine (la),BA,BIH,70
+,,,
+Botswana (le),BW,BWA,72
+,,,
+Bouvet (l'Île),BV,BVT,74
+,,,
+Brésil (le),BR,BRA,76
+,,,
+Indien (le Territoire britannique de l'océan),IO,IOT,86
+,,,
+Brunéi Darussalam (le),BN,BRN,96
+,,,
+Bulgarie (la),BG,BGR,100
+,,,
+Burkina Faso (le),BF,BFA,854
+,,,
+Burundi (le),BI,BDI,108
+,,,
+Cabo Verde,CV,CPV,132
+,,,
+Cambodge (le),KH,KHM,116
+,,,
+Cameroun (le),CM,CMR,120
+,,,
+Canada (le),CA,CAN,124
+,,,
+Caïmans (les Îles),KY,CYM,136
+,,,
+République centrafricaine (la),CF,CAF,140
+,,,
+Tchad (le),TD,TCD,148
+,,,
+Chili (le),CL,CHL,152
+,,,
+Chine (la),CN,CHN,156
+,,,
+Christmas (l'Île),CX,CXR,162
+,,,
+Cocos (les Îles)/ Keeling (les Îles),CC,CCK,166
+,,,
+Colombie (la),CO,COL,170
+,,,
+Comores (les),KM,COM,174
+,,,
+Congo (la République démocratique du),CD,COD,180
+,,,
+Congo (le),CG,COG,178
+,,,
+Cook (les Îles),CK,COK,184
+,,,
+Costa Rica (le),CR,CRI,188
+,,,
+Croatie (la),HR,HRV,191
+,,,
+Cuba,CU,CUB,192
+,,,
+Curaçao,CW,CUW,531
+,,,
+Chypre,CY,CYP,196
+,,,
+Tchéquie (la),CZ,CZE,203
+,,,
+Côte d'Ivoire (la),CI,CIV,384
+,,,
+Danemark (le),DK,DNK,208
+,,,
+Djibouti,DJ,DJI,262
+,,,
+Dominique (la),DM,DMA,212
+,,,
+dominicaine (la République),DO,DOM,214
+,,,
+Équateur (l'),EC,ECU,218
+,,,
+Égypte (l'),EG,EGY,818
+,,,
+El Salvador,SV,SLV,222
+,,,
+Guinée équatoriale (la),GQ,GNQ,226
+,,,
+Érythrée (l'),ER,ERI,232
+,,,
+Estonie (l'),EE,EST,233
+,,,
+Eswatini (l'),SZ,SWZ,748
+,,,
+Éthiopie (l'),ET,ETH,231
+,,,
+Falkland (les Îles)/Malouines (les Îles),FK,FLK,238
+,,,
+Féroé (les Îles),FO,FRO,234
+,,,
+Fidji (les),FJ,FJI,242
+,,,
+Finlande (la),FI,FIN,246
+,,,
+France (la),FR,FRA,250
+,,,
+Guyane française (la ),GF,GUF,254
+,,,
+Polynésie française (la),PF,PYF,258
+,,,
+Terres australes françaises (les),TF,ATF,260
+,,,
+Gabon (le),GA,GAB,266
+,,,
+Gambie (la),GM,GMB,270
+,,,
+Géorgie (la),GE,GEO,268
+,,,
+Allemagne (l'),DE,DEU,276
+,,,
+Ghana (le),GH,GHA,288
+,,,
+Gibraltar,GI,GIB,292
+,,,
+Grèce (la),GR,GRC,300
+,,,
+Groenland (le),GL,GRL,304
+,,,
+Grenade (la),GD,GRD,308
+,,,
+Guadeloupe (la),GP,GLP,312
+,,,
+Guam,GU,GUM,316
+,,,
+Guatemala (le),GT,GTM,320
+,,,
+Guernesey,GG,GGY,831
+,,,
+Guinée (la),GN,GIN,324
+,,,
+Guinée-Bissau (la),GW,GNB,624
+,,,
+Guyana (le),GY,GUY,328
+,,,
+Haïti,HT,HTI,332
+,,,
+Heard-et-Îles MacDonald (l'Île),HM,HMD,334
+,,,
+Saint-Siège (le),VA,VAT,336
+,,,
+Honduras (le),HN,HND,340
+,,,
+Hong Kong,HK,HKG,344
+,,,
+Hongrie (la),HU,HUN,348
+,,,
+Islande (l'),IS,ISL,352
+,,,
+Inde (l'),IN,IND,356
+,,,
+Indonésie (l'),ID,IDN,360
+,,,
+Iran (République Islamique d'),IR,IRN,364
+,,,
+Iraq (l'),IQ,IRQ,368
+,,,
+Irlande (l'),IE,IRL,372
+,,,
+Île de Man,IM,IMN,833
+,,,
+Israël,IL,ISR,376
+,,,
+Italie (l'),IT,ITA,380
+,,,
+Jamaïque (la),JM,JAM,388
+,,,
+Japon (le),JP,JPN,392
+,,,
+Jersey,JE,JEY,832
+,,,
+Jordanie (la),JO,JOR,400
+,,,
+Kazakhstan (le),KZ,KAZ,398
+,,,
+Kenya (le),KE,KEN,404
+,,,
+Kiribati,KI,KIR,296
+,,,
+Corée (la République populaire démocratique de),KP,PRK,408
+,,,
+Corée (la République de),KR,KOR,410
+,,,
+Koweït (le),KW,KWT,414
+,,,
+Kirghizistan (le),KG,KGZ,417
+,,,
+Lao (la République démocratique populaire),LA,LAO,418
+,,,
+Lettonie (la),LV,LVA,428
+,,,
+Liban (le),LB,LBN,422
+,,,
+Lesotho (le),LS,LSO,426
+,,,
+Libéria (le),LR,LBR,430
+,,,
+Libye (la),LY,LBY,434
+,,,
+Liechtenstein (le),LI,LIE,438
+,,,
+Lituanie (la),LT,LTU,440
+,,,
+Luxembourg (le),LU,LUX,442
+,,,
+Macao,MO,MAC,446
+,,,
+Madagascar,MG,MDG,450
+,,,
+Malawi (le),MW,MWI,454
+,,,
+Malaisie (la),MY,MYS,458
+,,,
+Maldives (les),MV,MDV,462
+,,,
+Mali (le),ML,MLI,466
+,,,
+Malte,MT,MLT,470
+,,,
+Marshall (les Îles),MH,MHL,584
+,,,
+Martinique (la),MQ,MTQ,474
+,,,
+Mauritanie (la),MR,MRT,478
+,,,
+Maurice,MU,MUS,480
+,,,
+Mayotte,YT,MYT,175
+,,,
+Mexique (le),MX,MEX,484
+,,,
+Micronésie (États fédérés de),FM,FSM,583
+,,,
+Moldova (la République de),MD,MDA,498
+,,,
+Monaco,MC,MCO,492
+,,,
+Mongolie (la),MN,MNG,496
+,,,
+Monténégro (le),ME,MNE,499
+,,,
+Montserrat,MS,MSR,500
+,,,
+Maroc (le),MA,MAR,504
+,,,
+Mozambique (le),MZ,MOZ,508
+,,,
+Myanmar (le),MM,MMR,104
+,,,
+Namibie (la),NA,NAM,516
+,,,
+Nauru,NR,NRU,520
+,,,
+Népal (le),NP,NPL,524
+,,,
+Pays-Bas (Royaume des),NL,NLD,528
+,,,
+Nouvelle-Calédonie (la),NC,NCL,540
+,,,
+Nouvelle-Zélande (la),NZ,NZL,554
+,,,
+Nicaragua (le),NI,NIC,558
+,,,
+Niger (le),NE,NER,562
+,,,
+Nigéria (le),NG,NGA,566
+,,,
+Niue,NU,NIU,570
+,,,
+Norfolk (l'Île),NF,NFK,574
+,,,
+Macédoine du Nord (la),MK,MKD,807
+,,,
+Mariannes du Nord (les Îles),MP,MNP,580
+,,,
+Norvège (la),NO,NOR,578
+,,,
+Oman,OM,OMN,512
+,,,
+Pakistan (le),PK,PAK,586
+,,,
+Palaos (les),PW,PLW,585
+,,,
+"Palestine, État de",PS,PSE,275
+,,,
+Panama (le),PA,PAN,591
+,,,
+Papouasie-Nouvelle-Guinée (la),PG,PNG,598
+,,,
+Paraguay (le),PY,PRY,600
+,,,
+Pérou (le),PE,PER,604
+,,,
+Philippines (les),PH,PHL,608
+,,,
+Pitcairn,PN,PCN,612
+,,,
+Pologne (la),PL,POL,616
+,,,
+Portugal (le),PT,PRT,620
+,,,
+Porto Rico,PR,PRI,630
+,,,
+Qatar (le),QA,QAT,634
+,,,
+Roumanie (la),RO,ROU,642
+,,,
+Russie (la Fédération de),RU,RUS,643
+,,,
+Rwanda (le),RW,RWA,646
+,,,
+Réunion (La),RE,REU,638
+,,,
+Saint-Barthélemy,BL,BLM,652
+,,,
+"Sainte-Hélène, Ascension et Tristan da Cunha",SH,SHN,654
+,,,
+Saint-Kitts-et-Nevis,KN,KNA,659
+,,,
+Sainte-Lucie,LC,LCA,662
+,,,
+Saint-Martin (partie française),MF,MAF,663
+,,,
+Saint-Pierre-et-Miquelon,PM,SPM,666
+,,,
+Saint-Vincent-et-les Grenadines,VC,VCT,670
+,,,
+Samoa (le),WS,WSM,882
+,,,
+Saint-Marin,SM,SMR,674
+,,,
+Sao Tomé-et-Principe,ST,STP,678
+,,,
+Arabie saoudite (l'),SA,SAU,682
+,,,
+Sénégal (le),SN,SEN,686
+,,,
+Serbie (la),RS,SRB,688
+,,,
+Seychelles (les),SC,SYC,690
+,,,
+Sierra Leone (la),SL,SLE,694
+,,,
+Singapour,SG,SGP,702
+,,,
+Saint-Martin (partie néerlandaise),SX,SXM,534
+,,,
+Slovaquie (la),SK,SVK,703
+,,,
+Slovénie (la),SI,SVN,705
+,,,
+Salomon (les Îles),SB,SLB,90
+,,,
+Somalie (la),SO,SOM,706
+,,,
+Afrique du Sud (l'),ZA,ZAF,710
+,,,
+Géorgie du Sud-et-les Îles Sandwich du Sud (la),GS,SGS,239
+,,,
+Soudan du Sud (le),SS,SSD,728
+,,,
+Espagne (l'),ES,ESP,724
+,,,
+Sri Lanka,LK,LKA,144
+,,,
+Soudan (le),SD,SDN,729
+,,,
+Suriname (le),SR,SUR,740
+,,,
+Svalbard et l'Île Jan Mayen (le),SJ,SJM,744
+,,,
+Suède (la),SE,SWE,752
+,,,
+Suisse (la),CH,CHE,756
+,,,
+République arabe syrienne (la),SY,SYR,760
+,,,
+Taïwan (Province de Chine),TW,TWN,158
+,,,
+Tadjikistan (le),TJ,TJK,762
+,,,
+Tanzanie (la République-Unie de),TZ,TZA,834
+,,,
+Thaïlande (la),TH,THA,764
+,,,
+Timor-Leste (le),TL,TLS,626
+,,,
+Togo (le),TG,TGO,768
+,,,
+Tokelau (les),TK,TKL,772
+,,,
+Tonga (les),TO,TON,776
+,,,
+Trinité-et-Tobago (la),TT,TTO,780
+,,,
+Tunisie (la),TN,TUN,788
+,,,
+Turkménistan (le),TM,TKM,795
+,,,
+Turks-et-Caïcos (les Îles),TC,TCA,796
+,,,
+Tuvalu (les),TV,TUV,798
+,,,
+Türkiye (la),TR,TUR,792
+,,,
+Ouganda (l'),UG,UGA,800
+,,,
+Ukraine (l'),UA,UKR,804
+,,,
+Émirats arabes unis (les),AE,ARE,784
+,,,
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le),GB,GBR,826
+,,,
+Îles mineures éloignées des États-Unis (les),UM,UMI,581
+,,,
+États-Unis d'Amérique (les),US,USA,840
+,,,
+Uruguay (l'),UY,URY,858
+,,,
+Ouzbékistan (l'),UZ,UZB,860
+,,,
+Vanuatu (le),VU,VUT,548
+,,,
+Venezuela (République bolivarienne du),VE,VEN,862
+,,,
+Viet Nam (le),VN,VNM,704
+,,,
+Vierges britanniques (les Îles),VG,VGB,92
+,,,
+Vierges des États-Unis (les Îles),VI,VIR,850
+,,,
+Wallis-et-Futuna,WF,WLF,876
+,,,
+Sahara occidental (le)*,EH,ESH,732
+,,,
+Yémen (le),YE,YEM,887
+,,,
+Zambie (la),ZM,ZMB,894
+,,,
+Zimbabwe (le),ZW,ZWE,716
+,,,
+Åland(les Îles),AX,ALA,248
