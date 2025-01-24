@@ -15,8 +15,31 @@ def load_data():
 
 
 def load_country_data():
+    
     iso_codes = load_iso_codes()
     capitals = load_capitals()
+    merged_countries = capitals.merge(iso_codes, left_on="code", right_on="iso-alpha-2")
+    merged_countries = merged_countries.drop("code", axis=1)
+    
+    cow_codes = load_cow_codes()
+    merged_countries = merged_countries.merge(cow_codes.drop_duplicates(), left_on="name", right_on="StateNme", how="left")
+    merged_countries = merged_countries.drop(['CCode', 'StateNme'], axis=1)
+    return merged_countries
+
+
+def load_cow_codes():
+    """Load Correlates of War (COW) codes for each country.
+    
+    Source: https://correlatesofwar.org/data-sets/cow-country-codes-2/
+
+    Returns: pd.DataFrame
+        StateAbb - 3 letter COW country abbreviation
+            Note: Does not match ISO-3166-1
+        CCode - numeric COW country code
+        StateNme - country name (English)
+    """
+    cow_codes = pd.read_csv("../data/COW-country-codes.csv")
+    return cow_codes
 
 
 def load_capitals():
