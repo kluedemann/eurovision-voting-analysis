@@ -1,0 +1,12 @@
+# Plots
+- [Data plots](data) - histograms and correlation analysis
+- [Regression plots](linear_regression) - results and diagnostic plots for linear regression
+    - Observed vs fitted values
+    - Q-Q plots
+    - Residual plots (histograms and residual vs fitted)
+    - Country-wise regression confidence intervals
+- [Linear mixed model plots](linear_effects)
+    - Observed vs fitted values
+    - Q-Q plots
+    - Residual histograms
+    - Residuals vs fitted values 
