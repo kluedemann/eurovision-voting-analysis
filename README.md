@@ -2,6 +2,14 @@
 
 We analyzed Eurovision voting patterns to determine the effect of distance and took into account external factors such as GDP per capita and music similarity determined from Spotify data.
 
+## Methods 
+
+After collecting and cleaning it, we analyzed the data using :
+- Overall linear regression
+- a Linear Mixed Model
+- country-wise linear regression
+- K-means clustering and visualization using PCA
+
 ## Project Members
  - Keyu Wang
  - Kai Lüdemann
